@@ -16,16 +16,16 @@ class MyMidtermExamApp extends StatelessWidget {
 
 class MyHomePage extends StatelessWidget {
   final List<String> items = [
-    'Apple',
-    'Banana',
-    'Orange',
-    'Grapes',
-    'Pineapple',
-    'Strawberry',
-    'Mango',
-    'Blueberry',
-    'Watermelon',
-    'Kiwi'
+    'BMW',
+    'TESLA',
+    'NISSAN',
+    'DODGE',
+    'FORD',
+    'FERRARI',
+    'TOYOTA',
+    'JAGUAR',
+    'HONDA',
+    'KIA'
   ];
 
   @override
